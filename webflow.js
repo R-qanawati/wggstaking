@@ -1,4 +1,4 @@
-
+alert("WORKING!");
 const web3 = new Web3(Web3.givenProvider);
 const CHAIN_ID = '0x4'
 const CONTRACT_ADDRESS_TOKEN = '0x85498D9cEE105C19f5e49bC214AdBBc874aB8552'
